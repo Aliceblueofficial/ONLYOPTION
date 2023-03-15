@@ -4,7 +4,7 @@ ONLY OPTION CHAIN ALICE BLUE
 # Installation
 This module is installed via pip:
 
-pip install aliceblueindia
+pip install optiondata-ab
 
 # Prerequisites
 Python >=3.11
