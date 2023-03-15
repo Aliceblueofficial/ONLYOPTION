@@ -6,14 +6,14 @@ This module is installed via pip:
 
 pip install aliceblueindia
 
-#Prerequisites
+# Prerequisites
 Python >=3.11
 
-#Getting started with API
+# Getting started with API
 Overview
 
 
-#Using the API
+# Using the API
 
 from Optionchain import *
 
