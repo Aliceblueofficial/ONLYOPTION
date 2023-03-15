@@ -23,11 +23,7 @@ Optionchainlogin(user_id='',session_id='')
 
 PremiumDashboard()
 
-Getlix(exchange="NSE", quantity=250,segment="CE",strike=45000, code="35347", op_pr="34.00",name="NIFTY", expiry="2023-03-016")
-
 GetMarginBasedOption(tab_name="bullish", name="NIFTY",   expiry="2023-03-16",spot_price="18794.00",code="62809",exchange="NSE")
-
-MoreCards(tab_name="bullish",name="NIFTY",expiry="2023-03-16",spot_price=18193.2,exchange="NSE")
 
 OpenInterest(date="2023-02-16",cm="true",cm_1="true",cm_2="true",short=1,long=5)
 
